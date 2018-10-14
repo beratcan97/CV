@@ -17,6 +17,9 @@
     padding: 1rem;
     border-radius: 1rem;
 
+    box-shadow: 1rem 1rem 0.5rem black;
+
+    /* No select */
     -webkit-touch-callout: none; /* iOS Safari */
     -webkit-user-select: none; /* Safari */
     -khtml-user-select: none; /* Konqueror HTML */
